@@ -1,0 +1,17 @@
+.custom-div {
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+table {
+  font-family: "Helvetica", sans-serif; /* Replace "Your Desired Font" with the font you want to use */
+}
+
+table th {
+  font-weight: bold; /* Optionally, make the table headers bold */
+}
+
+table th,
+table td {
+  font-size: 16px; /* Replace with your desired font size */
+}

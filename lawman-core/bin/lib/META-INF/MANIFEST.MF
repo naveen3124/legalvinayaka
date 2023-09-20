@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: user
+Class-Path: dependency-jars/javabridge-1.0.jar
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_261
+Main-Class: com.lawman.core.Lawman_Main
+
